@@ -3,12 +3,12 @@ print("Aasapu Sreevani Deepthi")
 
 # 2.Write a program for a Single line comment and multi-line comments
 
-# This is a single-line comment
+# I'm doing assignment
 
 """
-This is a multi-line comment.
-It can span multiple lines.
-Useful for detailed explanations.
+My Name is Deepthi
+I'm currently pursuing final
+At Aditya degree college
 """
 
 
